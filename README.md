@@ -20,3 +20,10 @@ You can send a request to the root of the API like this:
 hurl root_get.hurl
 ```
 _______________________________________________________________________________
+
+## Future Goals
+
+To turn this repo into a high-performance tag-centric image board built 
+with Rust, PostgreSQL, SQLx, and Svelte.
+
+_______________________________________________________________________________
